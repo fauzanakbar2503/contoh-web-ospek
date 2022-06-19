@@ -1,0 +1,823 @@
+.header{
+    position: absolute;
+    width: 1440px;
+    display: flex;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+
+    /* Feel-IT */
+
+    background: #000000;
+}
+
+.FEEL-IT h1{
+    
+    position: absolute;
+    height: 25px;
+    left: 55px;
+    top: 12px;
+
+    font-family: 'Gothic A1';
+    font-style:normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+
+    /* identical to box height */
+
+    text-align:center;
+    letter-spacing: -0.02em;
+
+    color: #FAFF00;
+}
+.eclipselogo1{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 9px;
+    top: 5px;
+
+    background:gray;
+}
+.Home h1{
+    position: absolute;
+    width: 55px;
+    height: 25px;
+    left: 978px;
+    top: 12px;
+
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FAFF00;
+}
+.Info22 h1{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    left: 1080px;
+    top: 12px;
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    color: #FAFF00;
+}
+.Galeri h1{
+    position: absolute;
+    width: 56px;
+    height: 25px;
+    left: 1195px;
+    top: 12px;
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #FAFF00;
+}
+.FAQ h1{
+    position: absolute;
+    width: 40px;
+    height: 25px;
+    left: 1287px;
+    top: 12px;
+
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+/* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FAFF00;
+}
+.Login h1{
+    position: absolute;
+    width: 51px;
+    height: 25px;
+    left: 1364px;
+    top: 12px;
+
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0px;
+    /* identical to box height */
+
+    text-align:justify;
+    letter-spacing: -0.02em;
+
+    color: #FAFF00;
+}
+.rectanglelogin{
+    position: absolute;
+    width: 85px;
+    height: 34px;
+    left: 1346px;
+    top: 5px;
+
+    /* Feel-IT */
+
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    border-radius: 150px;
+}
+
+.header2 {
+    position:absolute;
+    width: 1440px;
+    height: 97px;
+    left: 0px;
+    top: 45px;
+    
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.Feelitcaps h1{
+    position: absolute;
+    width: 1000px;
+    height: 32px;
+    left: 263px;
+    top: 77px;
+    
+    font-family: 'Molengo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 0px;
+    text-align: center;
+    /* identical to box height, or 64% */
+    
+    letter-spacing: -0.5px;
+    color: #FAFF00;
+}
+.rectanglebg{
+    position: absolute;
+    width: 1440px;
+    height: 2770px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(0, 0, 0, 0.6);
+
+}
+.bgweb{
+    position: absolute;
+    width: 1440px;
+    height: 2032px;
+    left: 0px;
+    top: 142px;
+    background: url(bgweb.jpeg);
+    filter: blur(4px);
+}
+
+.rectangleinformasi{
+    position: absolute;
+    width: 1196px;
+    height: 145px;
+    left: 121px;
+    top: 182px;
+    
+    background: #FAFF00;
+    border-radius: 150px;
+        
+}
+.informasi h2{
+    position: absolute;
+    width: 774px;
+    height: 75px;
+    left: 333px;
+    top: 200px;
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 25px;
+    /* or 96% */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+.gambar1 {
+    position: absolute;
+    width: 364px;
+    height: 381px;
+    left: 102px;
+    top: 382px;
+
+    background: url(gambarospek.jpg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.gambar2 {
+    position: absolute;
+    width: 223px;
+    height: 173px;
+    left: 486px;
+    top: 386px;
+    
+    background: url(gedung.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+.gambar3 {
+    position: absolute;
+    width: 223px;
+    height: 181px;
+    left: 486px;
+    top: 582px;
+    
+    background: url(dekan.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.gambar4 {
+    position: absolute;
+    width: 223px;
+    height: 173px;
+    left: 729px;
+    top: 386px;
+    
+    background: url(tiub.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.gambar5 {
+    position: absolute;
+    width: 222px;
+    height: 181px;
+    left: 730px;
+    top: 582px;
+
+    background: url(lomba.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.gambar6{
+    position: absolute;
+    width: 365px;
+    height: 381px;
+    left: 973px;
+    top: 382px;
+    
+    background: url(PKKMB-3.jpg);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.views h2{
+    position: absolute;
+    width: 101px;
+    height: 93px;
+    left: 121px;
+    top: 852px;
+    background: #000000;
+}
+.date {
+    position: absolute;
+    width: 101px;
+    height: 92px;
+    left: 121px;
+    top: 945px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.date h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 30px;
+    /* or 80% */
+    
+    letter-spacing: -0.5px;
+    color: #FAFF00;
+}
+.views h2{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+    color: #FAFF00;
+    text-align: center;
+}
+.twibbon {
+    position: absolute;
+    width: 467px;
+    height: 369px;
+    left: 242px;
+    top: 852px;
+
+    background: url(twibbon.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.twibbon h1{
+  
+
+    position:absolute;
+    width: 421px;
+    height: 32px;
+    left: 550px;
+    top: -30px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 32px;
+    /* identical to box height, or 80% */
+
+    letter-spacing: -0.5px;
+
+    color: #FFFFFF;
+
+}
+.twibbon h3{
+    position:absolute;
+    width: 421px;
+    height: 32px;
+    left: 550px;
+    top: 40px;
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+    
+}
+.views2 h2{
+    position: absolute;
+    width: 101px;
+    height: 93px;
+    left: 121px;
+    top: 1313px;
+    background: #000000;
+}
+.date2{
+    position: absolute;
+    width: 101px;
+    height: 92px;
+    left: 121px;
+    top: 1406px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.date2 h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 25px;
+    /* or 80% */
+
+    letter-spacing: -0.5px;
+    color:#FAFF00;
+}
+.views2 h2{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+    color: #FAFF00;
+    text-align: center;
+}
+.artilogo {
+    position: absolute;
+    width: 467px;
+    height: 369px;
+    left: 242px;
+    top: 1311px;
+
+    background: url(artilogo.jpeg);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.artilogo h1{
+    position: absolute;
+    width: 338px;
+    height: 32px;
+    left: 550px;
+    top: -10px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 32px;
+    /* identical to box height, or 80% */
+
+    letter-spacing: -0.5px;
+
+    color: #FFFFFF;
+}
+.artilogo h3{
+    position: absolute;
+    width: 404px;
+    height: -20px;
+    left: 550px;
+    top: 60px;
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+}
+.darkengambarospek{
+    position: absolute;
+    width: 364px;
+    height: 381px;
+    left: 102px;
+    top: 382px;
+
+    background: rgba(0, 0, 0, 0.5);
+
+}
+.darkengambarospek h2{
+   
+
+    /* h2 */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 32px;
+    /* identical to box height, or 80% */
+
+    text-align: center;
+    letter-spacing: -0.5px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.darkengambarpkkmb{
+    position: absolute;
+    width: 365px;
+    height: 381px;
+    left: 973px;
+    top: 382px;
+    
+    background: rgba(0, 0, 0, 0.5);
+}
+.darkengambarpkkmb h2{
+
+    /* h2 */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 32px;
+    /* identical to box height, or 80% */
+
+    text-align: center;
+    letter-spacing: -0.5px;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+
+}
+.coverInformasiPelaksanaan{
+    position: absolute;
+    width: 223px;
+    height: 52px;
+    left: 486px;
+    top: 507px;
+    
+    background: rgba(0, 0, 0, 0.5);
+}
+.coverInformasiPelaksanaan h3{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.coverDekan{
+    position: absolute;
+    width: 223px;
+    height: 52px;
+    left: 486px;
+    top: 711px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+.coverDekan h3{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.coverTiUB{
+    position: absolute;
+    width: 223px;
+    height: 52px;
+    left: 729px;
+    top: 507px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+.coverTiUB h3{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.coverLomba{
+    position: absolute;
+    width: 223px;
+    height: 52px;
+    left: 730px;
+    top: 711px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+.coverLomba h3{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.yellowbox{
+    position: absolute;
+    width: 364px;
+    height: 55px;
+    left: 354px;
+    top: 1781px;
+
+    /* Yellow Neutrals */
+
+    background: linear-gradient(0deg, #FAFF00, #FAFF00), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.a h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 355px;
+    top: 1759px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    color: #FAFF00;
+    text-align: center;
+}
+.b h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 416px;
+    top: 1759px;
+    color: #FAFF00;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    text-align: center;
+    
+}
+.c h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 477px;
+    top: 1759px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    color: #FAFF00;
+    text-align: center;
+}
+.d h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 538px;
+    top: 1759px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    color: #FAFF00;
+    text-align: center;
+}
+.e h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 599px;
+    top: 1759px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    color: #FAFF00;
+    text-align: center;
+}
+.f h1{
+    position: absolute;
+    width: 59px;
+    height: 55px;
+    left: 660px;
+    top: 1759px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    color: #FAFF00;
+    text-align: center;
+}
+.views3 h2{
+    position: absolute;
+    width: 101px;
+    height: 93px;
+    left: 244px;
+    top: 1835px;
+    background: #000000;
+}
+.date3{
+    position: absolute;
+    width: 101px;
+    height: 92px;
+    left: 244px;
+    top: 1928px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.date3 h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 25px;
+    /* or 80% */
+    
+    letter-spacing: -0.5px;
+    color: #FAFF00;
+}
+.views3 h2{
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    /* identical to box height */
+
+    letter-spacing: -0.02em;
+    color: #FAFF00;
+    text-align: center;
+}
+.artikel3 h2{
+    position: absolute;
+    width: 522px;
+    height: 32px;
+    left: 385px;
+    top: 1835px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 32px;
+    /* identical to box height, or 80% */
+    
+    letter-spacing: -0.5px;
+    
+    color: #FFFFFF;
+    
+}
+.artikel3 h3{
+    position: absolute;
+    width: 411px;
+    height: 112px;
+    left: 392px;
+    top: 1899px;
+
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 177.5%;
+    /* or 35px */
+
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+.footer{
+    position: absolute;
+    width: 1440px;
+    height: 478px;
+    left: 0px;
+    top: 2174px;
+    background: linear-gradient(0deg, #1434A4, #1434A4), #000000;
+}
+.footer h3{
+    position: absolute;
+    width: 265px;
+    height: 150px;
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+}
+.logofooter{
+    position: absolute;
+    width: 89px;
+    height: 89px;
+    left: 1332px;
+    top: 2551px;
+
+    background: url(logofeelit.jpg);
+}
+.rectangleback{
+    position: absolute;
+    width: 265px;
+    height: 55px;
+    left: 587px;
+    top: 2625px;
+
+    /* Yellow Neutrals */
+
+    background: linear-gradient(0deg, #FAFF00, #FAFF00), linear-gradient(0deg, #FFFFFF, #FFFFFF), linear-gradient(0deg, #1434A4, #1434A4), #000000;
+    border-radius: 150px;
+}
+.rectangleback h3{
+   
+    
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+    text-align: center;
+
+    color: #000000;
+
+}
+.foot{
+    position: absolute;
+    width: 1440px;
+    height: 118px;
+    left: 0px;
+    top: 2652px;
+    background: #000000;
+}
+.foot h3{
+  
+
+    /* h3 */
+
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: white;
+}
